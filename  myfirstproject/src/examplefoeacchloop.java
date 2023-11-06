@@ -1,3 +1,4 @@
+// for each loop 
 public class examplefoeacchloop {
     public static void main(String[] args) {  
     //Declaring an array  

@@ -1,3 +1,4 @@
+// nested loop in form of triangle
 public class nn {
     public static void main(String[] args) {  
 for(int i=5;i>=1;i--){  

@@ -1,3 +1,4 @@
+//addition of 2numbers using methods
 public class methodsnum {
     public static int addnumbers(int num1,int num2){
     return num1+num2;

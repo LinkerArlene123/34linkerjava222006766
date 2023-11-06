@@ -1,3 +1,4 @@
+// do while loop
 public class dowhileloopexample {
     public static void main (String[] args){
         int month=1;

@@ -1,3 +1,4 @@
+// while loop
 public class whilopp {
     public static void main(String[] args) {  
      

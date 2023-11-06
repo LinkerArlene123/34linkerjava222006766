@@ -1,3 +1,4 @@
+//simple interest
 public class Mrbobinterest {
     public static double data(int principal,double rate,int time)
     {

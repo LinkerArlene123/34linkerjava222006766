@@ -1,3 +1,4 @@
+// switch case 
 public class exampleswitchlevel {//Java Program to demonstrate the use of Java Switch  
 //statement with String      
 public static void main(String[] args) {    

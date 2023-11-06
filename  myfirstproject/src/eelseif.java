@@ -1,3 +1,4 @@
+// elseif question
 public class eelseif {public static void main(String args[]){
     int score =100;
     if (score == 100)

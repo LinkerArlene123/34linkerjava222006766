@@ -1,3 +1,4 @@
+//switch case using methods
 public class monthja {  
 public static void main(String[] args) {    
     //Specifying month number  

@@ -1,3 +1,4 @@
+//nestedloop form od triangle or pyramid loop
 public class pyramid {
     public static void main(String args[]){
         for (int vowel=1;vowel<=5;vowel++){

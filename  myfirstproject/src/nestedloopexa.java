@@ -1,3 +1,4 @@
+// nested loop
 public class nestedloopexa {
     public static void main(String args[]){
         for (int score=1;score<=3;score++){

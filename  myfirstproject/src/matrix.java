@@ -1,3 +1,5 @@
+
+// compound interest
 public class matrix {
     class Loan {
         public static double getTotalAmount(double principal, double rate, int time, int n) {

@@ -1,3 +1,4 @@
+// compound interest
 public class compoundinterest {
     public static double given(double principal,double rate,int time){
     
